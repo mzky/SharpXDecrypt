@@ -23,11 +23,16 @@ namespace SharpXDecrypt
              {
                  XClass.Decrypt(args[0]);
              }
+             else if (args.Length > 1)
+             {
+             	 Console.WriteLine("Args input error!");
+             	 return;
+             }
              else
              {
                  XClass.Decrypt();
              }
-             Console.WriteLine("[*] read done!");
+             Console.WriteLine("Finish!");
 //             Console.ReadKey();
 
         }
