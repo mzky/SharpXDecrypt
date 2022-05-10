@@ -1,0 +1,6 @@
+D:\git\SharpXDecrypt-main\test\test\test\bin\Debug\test.exe.config
+D:\git\SharpXDecrypt-main\test\test\test\bin\Debug\test.exe
+D:\git\SharpXDecrypt-main\test\test\test\bin\Debug\test.pdb
+D:\git\SharpXDecrypt-main\test\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\git\SharpXDecrypt-main\test\test\test\obj\Debug\test.exe
+D:\git\SharpXDecrypt-main\test\test\test\obj\Debug\test.pdb
