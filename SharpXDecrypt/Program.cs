@@ -32,7 +32,7 @@ namespace SharpXDecrypt
              {
                  XClass.Decrypt();
              }
-             Console.WriteLine("Finish!");
+             Console.WriteLine("[*] Finish!");
 //             Console.ReadKey();
 
         }

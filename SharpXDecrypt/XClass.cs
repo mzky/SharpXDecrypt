@@ -191,7 +191,7 @@ namespace SharpXDecrypt
             {
                 sessionsPath = userDataPath;
             }
-            if (Directory.Exists(sessionsPath))//判断是否存在
+            if (Directory.Exists(sessionsPath))// 判断是否存在
             {
                 DirectoryInfo directoryInfo = new DirectoryInfo(sessionsPath);
                 FileInfo[] files = directoryInfo.GetFiles();
